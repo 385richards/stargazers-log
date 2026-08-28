@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "owner": "octocat",
+    "name": "Hello-World",
+    "description": "My first repository on GitHub!",
+    "url": "https://github.com/octocat/Hello-World",
+    "language": "JavaScript",
+    "starred_at": "2026-08-20T14:35:00Z"
+  },
+  {
+    "id": 2,
+    "owner": "torvalds",
+    "name": "linux",
+    "description": "Linux kernel source tree",
+    "url": "https://github.com/torvalds/linux",
+    "language": "C",
+    "starred_at": "2026-07-05T09:12:00Z"
+  },
+  {
+    "id": 3,
+    "owner": "django",
+    "name": "django",
+    "description": "The Web framework for perfectionists with deadlines.",
+    "url": "https://github.com/django/django",
+    "language": "Python",
+    "starred_at": "2026-06-01T18:00:00Z"
+  }
+]
